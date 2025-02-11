@@ -16,3 +16,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 1. **Exploratory Data Analysis**: Analyzing trends in sales data.
 2. **Predictive Modeling**: Building a linear regression model to predict housing prices.
 3. **Interactive Shiny App**: A dashboard for visualizing COVID-19 data.
+
+# Contact
+maciejstrzelecki96@gmail.com
+LinkedIn: https://www.linkedin.com/in/maciej-strzelecki-9ab338182/
