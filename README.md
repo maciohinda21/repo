@@ -4,7 +4,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 # Python skills
 - Data manipulation with `pandas` and `numpy`
 - Data visualization with `seaborn` and `matplotlib`
-- LLM fine tuning with Hugging Face pipelines and `transformer` models
+- Knowledge of NLP, LLM fine tuning with Hugging Face pipelines and `transformer` models
 - Data imputation with `scikit-learn`
 
 # R skills
