@@ -12,10 +12,11 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - Data visualization with `ggplot2`
 - Statistical modeling with `lm()` and `glm()`
 
-## Projects
-1. **Exploratory Data Analysis**: Analyzing trends in sales data.
-2. **Predictive Modeling**: Building a linear regression model to predict housing prices.
-3. **Interactive Shiny App**: A dashboard for visualizing COVID-19 data.
+# Plots
+- Based on Python-Scikit learn project/product_sales.csv data.
+  ![image](https://github.com/user-attachments/assets/30e544fc-c354-4338-ab38-9cd5910ea11e)
+
+- TBC
 
 # Contact
 maciejstrzelecki96@gmail.com
