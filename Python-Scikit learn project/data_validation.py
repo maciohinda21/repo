@@ -3,19 +3,19 @@ import pandas as pd
 from sklearn.impute import KNNImputer
 from sklearn.preprocessing import LabelEncoder
 
-# Path to the CSV file
-file_path = "C:\\Users\\macio\\Downloads\\product_sales.csv" 
+# Path to the CSV file. Replace placeholder with folder path
+file_path = "[PLACEHOLDER]\\product_sales.csv" 
 
 data = pd.read_csv(file_path)
 
 # Create a KNN Imputer object
-imputer = KNNImputer(n_neighbors=5)  # You can adjust the number of neighbors as needed
+imputer = KNNImputer(n_neighbors=5)  # Number of neigbors can be adjusted
 
 # Select the columns to use for finding nearest neighbors (exclude 'revenue' column)
 columns_for_imputation = ['week', 'sales_method', 'nb_sold', 
                          'years_as_customer', 'nb_site_visits', 'state']
 
-# Encode categorical variables (if necessary)
+# Encode categorical variables
 le = LabelEncoder()
 for col in ['sales_method', 'state']:
     data[col] = le.fit_transform(data[col])
@@ -36,5 +36,5 @@ data['revenue'] = pd.to_numeric(data['revenue'], errors='coerce').round(2)
 # Print the data with imputed values
 print(data)
 
-# Save the imputed data to a new CSV file (optional)
-data.to_csv("C:\\Users\\macio\\Downloads\\imputed_product_sales.csv", index=False) 
+# Save the imputed data to a new CSV file. Replace placeholder with folder path
+data.to_csv("[PLACEHOLDER]\\imputed_product_sales.csv", index=False) 
