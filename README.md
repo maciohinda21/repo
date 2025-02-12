@@ -8,7 +8,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - Data imputation with `scikit-learn`
 
 # R skills
-- Data manipulation with `dplyr` and `tidyr`
+- Data manipulation with `broom`, `dplyr` and `tidyr`
 - Data visualization with `ggplot2`
 - Statistical modeling with `lm()` and `glm()`
 
