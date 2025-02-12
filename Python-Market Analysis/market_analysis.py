@@ -2,13 +2,13 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Create a data frame and group by months. Replace the placeholder with the actual folder path
-df = pd.read_csv('[Insert path to the downloads folder]/real_product_sales.csv')
+# Create a data frame and group by months
+df = pd.read_csv('https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python-Market%20Analysis/real_product_sales.csv')
 df['month'] = pd.to_datetime(df['month']).dt.year
 year_str = df.groupby('month')['workout_worldwide'].sum().idxmax()
 
-# Finding the most popular keyword in 2020. Replace the placeholder with the actual folder path
-df = pd.read_csv('[Insert path to the downloads folder]/three_keywords.csv')
+# Finding the most popular keyword in 2020
+df = pd.read_csv('https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python-Market%20Analysis/three_keywords.csv')
 df['month'] = pd.to_datetime(df['month']).dt.year
 df_2020 = df[df['month'] == 2020]
 home_workout_sum = df_2020['home_workout_worldwide'].sum()
