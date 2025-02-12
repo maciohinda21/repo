@@ -1,5 +1,5 @@
 # Maciej's repository
-I am a PhD applicant that's experimenting with Python and R. My educational background is in Political Sciences while my professional background and interests are in Data Analysis and Data Science. This repository showcases my projects in data analysis, statistical modelling, LLMs, and data visualization.
+I am a PhD applicant that's experimenting with Python and R. My educational background is in Political Sciences while my professional background and interests are in Data Analysis and Data Science. This repository showcases my projects in data analysis, statistical modelling, LLMs, and data visualization. Currently I am a Data Expert at Accenture.
 
 # Python skills
 - Data manipulation with `pandas` and `numpy`
