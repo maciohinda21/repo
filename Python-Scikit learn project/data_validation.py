@@ -3,8 +3,8 @@ import pandas as pd
 from sklearn.impute import KNNImputer
 from sklearn.preprocessing import LabelEncoder
 
-# Path to the CSV file. Replace placeholder with folder path
-file_path = "[PLACEHOLDER]\\product_sales.csv" 
+# Path to the CSV file.
+file_path = "https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python-Scikit%20learn%20project/product_sales.csv" 
 
 data = pd.read_csv(file_path)
 
