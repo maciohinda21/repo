@@ -36,5 +36,5 @@ data['revenue'] = pd.to_numeric(data['revenue'], errors='coerce').round(2)
 # Print the data with imputed values
 print(data)
 
-# Save the imputed data to a new CSV file. Replace placeholder with folder path
+# [Optional] Save the imputed data to a new CSV file. Replace placeholder with your folder path
 data.to_csv("[PLACEHOLDER]\\imputed_product_sales.csv", index=False) 
