@@ -6,11 +6,20 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - Data visualization with `seaborn` and `matplotlib`
 - Knowledge of NLP, LLM fine tuning with Hugging Face pipelines and `transformer` models
 - Data imputation with `scikit-learn`
+  
+# PythonProjects
+- Netflix movie distribution in 1990s
+- Std project based on SAT data
+- Scikit-learn project based on mock product sales data
+- Market analysis with panda on mock data
 
 # R skills
 - Data manipulation with `broom`, `dplyr` and `tidyr`
 - Data visualization with `ggplot2`
 - Statistical modeling with `lm()` and `glm()`
+
+# R Projects
+- Glm on kidney treatments data
 
 # Plots
 - Based on Python-Scikit learn project/product_sales.csv data.
