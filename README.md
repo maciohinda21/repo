@@ -23,7 +23,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - [Data wrangling and plot studing life expectancy globally](https://github.com/maciohinda21/repo/tree/main/R%20Projects)
 
 ## Plots
-- Based on Python-Scikit learn project/product_sales.csv data.
+- Based on [Python Projects/market_analysis](https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python%20Projects/market_analysis.py)
   ![image](https://github.com/user-attachments/assets/30e544fc-c354-4338-ab38-9cd5910ea11e)
 
 - Based on [Python Projects/Netflix.py](https://github.com/maciohinda21/repo/blob/main/Python%20Projects/Netflix.py)
