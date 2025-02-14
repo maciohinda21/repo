@@ -16,7 +16,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 ## R skills
 - Data manipulation with `broom`, `dplyr` and `tidyr`
 - Data visualization with `ggplot2`
-- Statistical modeling with `lm()` and `glm()`
+- Regressions with `lm()` and `glm()`
 
 ## R Projects
 - [Predictive study on kidney treatments](https://github.com/maciohinda21/repo/blob/main/R%20Projects/kidney_stone_project(glm).r)
