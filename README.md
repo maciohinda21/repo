@@ -20,6 +20,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 
 ## R Projects
 - [Predictive study on kidney treatments](https://github.com/maciohinda21/repo/blob/main/R%20Projects/kidney_stone_project(glm).r)
+- [Data wrangling and plot studing life expectancy globally](https://github.com/maciohinda21/repo/tree/main/R%20Projects)
 
 ## Plots
 - Based on Python-Scikit learn project/product_sales.csv data.
