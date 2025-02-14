@@ -25,10 +25,10 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - Based on Python-Scikit learn project/product_sales.csv data.
   ![image](https://github.com/user-attachments/assets/30e544fc-c354-4338-ab38-9cd5910ea11e)
 
-- Based on [Python Projects/Netflix.py] (
+- Based on [Python Projects/Netflix.py](
   ![image](https://github.com/user-attachments/assets/c8dcbd49-fbb1-495a-a3e4-45edd4135c95)
 
-- Based on [R Project/Life_Expectancy.r] (https://github.com/maciohinda21/repo/blob/main/R%20Projects/Life_Expectancy.r)
+- Based on [R Project/Life_Expectancy.r](https://github.com/maciohinda21/repo/blob/main/R%20Projects/Life_Expectancy.r)
   ![image](https://github.com/user-attachments/assets/4213dbb3-0c89-4a9d-b087-eb003cdef53b)
 
 
