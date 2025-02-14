@@ -5,7 +5,7 @@ library(ggplot2)
 library(broom)
 
 # Load the data
-data <- read_csv("https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/R%20Projects/kidney_stone_data.csv")
+data <- read.csv("https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/R%20Projects/kidney_stone_data.csv")
 
 # Inspect the first five rows
 head(data, 5)
