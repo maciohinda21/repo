@@ -12,6 +12,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - [Std project based on SAT data](https://github.com/maciohinda21/repo/blob/main/Python%20Projects/STD_project.py)
 - [Scikit-learn project based on mock product sales data](https://github.com/maciohinda21/repo/blob/main/Python-Scikit%20learn%20project/data_validation.py)
 - [Market analysis with panda on mock data](https://github.com/maciohinda21/repo/blob/main/Python-Market%20Analysis/market_analysis.py)
+- [NLP models using Huggingface pipelines](https://huggingface.co/Maciohinda/Basic_LLM)
 
 ## R skills
 - Data manipulation with `broom`, `dplyr` and `tidyr`
