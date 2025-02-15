@@ -17,10 +17,12 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - Data manipulation with `broom`, `dplyr` and `tidyr`
 - Data visualization with `ggplot2`
 - Regressions with `lm()` and `glm()`
+- Exploratory factor analysis with `psych`
 
 ## R Projects
 - [Predictive study on kidney treatments](https://github.com/maciohinda21/repo/blob/main/R%20Projects/kidney_stone_project(glm).r)
 - [Data wrangling and plot studing life expectancy globally](https://github.com/maciohinda21/repo/tree/main/R%20Projects)
+- [Exploratory factory analysis on how environmental factors affect the wildlife population]
 
 ## Plots
 - Based on [Python Projects/market_analysis](https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python%20Projects/market_analysis.py)
