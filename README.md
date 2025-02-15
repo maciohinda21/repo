@@ -22,7 +22,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 ## R Projects
 - [Predictive study on kidney treatments](https://github.com/maciohinda21/repo/blob/main/R%20Projects/kidney_stone_project(glm).r)
 - [Data wrangling and plot studing life expectancy globally](https://github.com/maciohinda21/repo/tree/main/R%20Projects)
-- [Exploratory factory analysis on how environmental factors affect the wildlife population]
+- [Exploratory factory analysis on how environmental factors affect the wildlife population](https://github.com/maciohinda21/repo/blob/main/R%20Projects/Environmental_Factors_on_Wildlife.r)
 
 ## Plots
 - Based on [Python Projects/market_analysis](https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python%20Projects/market_analysis.py)
@@ -33,6 +33,13 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 
 - Based on [R Project/Life_Expectancy](https://github.com/maciohinda21/repo/blob/main/R%20Projects/Life_Expectancy.r)
   ![image](https://github.com/user-attachments/assets/4213dbb3-0c89-4a9d-b087-eb003cdef53b)
+- Based on [R Project/Environmental Factors on Wildlife](https://github.com/maciohinda21/repo/blob/main/R%20Projects/Environmental_Factors_on_Wildlife.r)
+  ![image](https://github.com/user-attachments/assets/29334ea2-93aa-4546-b870-178fb5e74a1f)
+  ![image](https://github.com/user-attachments/assets/e6cf42d0-2a84-4f49-8c13-933a26677744)
+  ![image](https://github.com/user-attachments/assets/bcc01129-6695-46be-8889-881cf3a1401c)
+
+
+
 
 
 
