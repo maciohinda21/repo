@@ -11,7 +11,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - [Netflix movie distribution in 1990s](https://github.com/maciohinda21/repo/blob/main/Python%20Projects/Netflix.py)
 - [Std project based on SAT data](https://github.com/maciohinda21/repo/blob/main/Python%20Projects/STD_project.py)
 - [Scikit-learn project based on mock product sales data](https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python%20Projects/data_validation.py)
-- [Market analysis with panda on mock data](https://github.com/maciohinda21/repo/blob/main/Python-Market%20Analysis/market_analysis.py)
+- [Market analysis with panda on mock data](https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python%20Projects/market_analysis.py)
 - [NLP models using Huggingface pipelines](https://huggingface.co/Maciohinda/Basic_LLM)
 
 ## R skills
