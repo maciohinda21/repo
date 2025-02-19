@@ -23,7 +23,7 @@ def interpret_prediction(logits):
     return reasoning
 
 # Use the model for inference
-text_to_test = "This marvel movie was shit."  # Replace with your text
+text_to_test = "This marvel movie was not what I expected."  # Replace with your text to test the model
 inputs = tokenizer(text_to_test, return_tensors="pt")
 outputs = model(**inputs)
 logits = outputs.logits
