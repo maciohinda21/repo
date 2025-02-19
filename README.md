@@ -12,7 +12,7 @@ I am a PhD applicant that's experimenting with Python and R. My educational back
 - [Std project based on SAT data](https://github.com/maciohinda21/repo/blob/main/Python%20Projects/STD_project.py)
 - [Scikit-learn project based on mock product sales data](https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python%20Projects/data_validation.py)
 - [Market analysis with panda on mock data](https://raw.githubusercontent.com/maciohinda21/repo/refs/heads/main/Python%20Projects/market_analysis.py)
-- [NLP models using Huggingface pipelines](https://huggingface.co/Maciohinda/Basic_LLM)
+- [NLP model using Huggingface pipelines](https://huggingface.co/Maciohinda/extra-fine-tuned-distilbert-imdb)
 
 ## R skills
 - Data manipulation with `broom`, `dplyr` and `tidyr`
