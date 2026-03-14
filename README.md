@@ -1,5 +1,13 @@
 # Maciej's repository
-I am a PhD applicant that's experimenting with Python and R. My educational background is in Political Sciences while my professional background and interests are in Data Analysis and Data Science. This repository showcases my projects in data analysis, statistical modelling, LLMs, and data visualization. Currently I am a Data Expert at Accenture.
+Avid gamer and QA/Data Lead passionate about game development, applying data skills to enhance testing and analytics at studios like CD Projekt RED.
+
+Background
+Professional: QA and Analytics Lead with 3+ years managerial experience at Accenture (Data Expert), specializing in data engineering, analysis, and actionable insights via SQL, BigQuery, Python, R, Power BI, Tableau, Looker.​
+Gaming: Deeply inspired by CDPR's Witcher/Cyberpunk worlds—experimenting with Unreal Engine 5 QA pipelines. Psycho fan of Mass Effect and Monster Hunter series, and of MMORPGs such as Guild Wars 2 and Lord of the Rings Online.
+Academic: Political Science background fueling rigorous statistical modeling; PhD applicant blending social data with tech.
+
+Featured Projects
+This repo showcases Python/R for data analysis, stats modeling, LLMs, visualization—tailored for game QA/BI (e.g., playtest metrics, bug trend dashboards).
 
 ## Python skills
 - Data manipulation with `pandas` and `numpy`
